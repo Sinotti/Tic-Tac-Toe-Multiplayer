@@ -68,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Marker Circle Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 7892742210923094058, guid: b62e429ece418314199a12a2e6ec1398, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 2778849102
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
